@@ -1,0 +1,37 @@
+{
+  "dashboard": {
+    "WELCOME": "Welcome to {{appName}}"
+  },
+  "topbar": {
+    "search": {
+      "PLACEHOLDER": "Type and hit enter.."
+    }
+  },
+  "sidebar": {
+    "WELCOME": "Welcome",
+    "heading": {
+      "HEADER": "Main Navigation"
+    },
+    "nav": {
+      "INICIO": "Home",
+      "SINGLEVIEW": "Vista simple",
+      "menu": {
+        "VENTAS": "Market",
+        "VENTAS_FACTURAS": "Invoice",
+        "VENTAS_COTIZACIONES": "Cotizaciones",
+        "VENTAS_PEDIDOS": "Pedidos",
+        "VENTAS_CONTROLPEDIDOS": "Control de Pedidos",
+        "VENTAS_CONSULTAS": "Consultas",
+        "VENTAS_INFORMES": "Informes",
+        "MENU": "Menu",
+        "PRODUCTOS": "Productos",
+        "PROVEEDORES": "Proveedores",
+        "GESTIONHUMANA": "Gestión Humana",
+        "PLANCAP": "Plan-Cap",
+        "CONFIGURACION": "Configuración",
+        "ESTADISTICAS": "Estadisticas",
+        "SUBMENU": "Sub Menu"
+      }
+    }
+  }
+}

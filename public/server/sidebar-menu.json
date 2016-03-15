@@ -1,0 +1,117 @@
+[
+  {
+    "text": "Menu Heading",
+    "heading": "true",
+    "translate": "sidebar.heading.HEADER"
+  },
+  {
+    "text": "Inicio",
+    "sref": "app.inicio",
+    "icon": "icon-home",
+    "translate": "sidebar.nav.INICIO"
+  },
+  {
+    "text": "Ventas",
+    "sref": "#",
+    "icon": "icon-basket",
+    "submenu": [
+      { "text": "Facturas", 
+        "sref": "app.ventas_facturas", 
+        "translate": "sidebar.nav.menu.VENTAS_FACTURAS" 
+      },
+      { "text": "Cotizaciones", 
+        "sref": "app.ventas_cotizaciones", 
+        "translate": "sidebar.nav.menu.VENTAS_COTIZACIONES" 
+      },
+      { "text": "Pedidos", 
+        "sref": "app.ventas_pedidos", 
+        "translate": "sidebar.nav.menu.VENTAS_PEDIDOS" 
+      },
+      { "text": "Control de Pedidos", 
+        "sref": "app.ventas_controlpedidos", 
+        "translate": "sidebar.nav.menu.VENTAS_CONTROLPEDIDOS" 
+      },
+      { "text": "Consultas", 
+        "sref": "app.ventas_consultas", 
+        "translate": "sidebar.nav.menu.VENTAS_CONSULTAS" 
+      },
+      { "text": "Informes", 
+        "sref": "app.ventas_informes", 
+        "translate": "sidebar.nav.menu.VENTAS_INFORMES" 
+      }
+    ],
+    "translate": "sidebar.nav.menu.VENTAS"
+  },
+  {
+    "text": "Productos",
+    "sref": "#",
+    "icon": "icon-handbag",
+    "submenu": [
+      { "text": "Sub Menu", 
+        "sref": "app.submenu", 
+        "translate": "sidebar.nav.menu.SUBMENU" 
+      }    
+    ],
+    "translate": "sidebar.nav.menu.PRODUCTOS"
+  },
+  {
+    "text": "Proveedores",
+    "sref": "#",
+    "icon": "icon-layers",
+    "submenu": [
+      { "text": "Sub Menu", 
+        "sref": "app.submenu", 
+        "translate": "sidebar.nav.menu.SUBMENU" 
+      }    
+    ],
+    "translate": "sidebar.nav.menu.PROVEEDORES"
+  },
+  {
+    "text": "Gestión Humana",
+    "sref": "#",
+    "icon": "icon-people",
+    "submenu": [
+      { "text": "Sub Menu", 
+        "sref": "app.submenu", 
+        "translate": "sidebar.nav.menu.SUBMENU" 
+      }    
+    ],
+    "translate": "sidebar.nav.menu.GESTIONHUMANA"
+  },
+  {
+    "text": "Plan-Cap",
+    "sref": "#",
+    "icon": "icon-tag",
+    "submenu": [
+      { "text": "Sub Menu", 
+        "sref": "app.submenu", 
+        "translate": "sidebar.nav.menu.SUBMENU" 
+      }    
+    ],
+    "translate": "sidebar.nav.menu.PLANCAP"
+  },
+  {
+    "text": "Confifuración",
+    "sref": "#",
+    "icon": "icon-wrench",
+    "submenu": [
+      { "text": "Sub Menu", 
+        "sref": "app.submenu", 
+        "translate": "sidebar.nav.menu.SUBMENU" 
+      }    
+    ],
+    "translate": "sidebar.nav.menu.CONFIGURACION"
+  },
+  {
+    "text": "Estadisticas",
+    "sref": "#",
+    "icon": "icon-pie-chart",
+    "submenu": [
+      { "text": "Sub Menu", 
+        "sref": "app.submenu", 
+        "translate": "sidebar.nav.menu.SUBMENU" 
+      }    
+    ],
+    "translate": "sidebar.nav.menu.ESTADISTICAS"
+  }
+]

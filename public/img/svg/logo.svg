@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3215"
+   height="34"
+   width="136"
+   version="1.0"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="C:\Users\jose\Documents\Drgas Calidad\hadro\public\img\logo.png"
+   inkscape:export-xdpi="71.050003"
+   inkscape:export-ydpi="71.050003">
+  <defs
+     id="defs8">
+    <linearGradient
+       id="linearGradient3678-6">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3680-8" />
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:1;"
+         offset="1"
+         id="stop3682-9" />
+    </linearGradient>
+    <filter
+       id="filter3028"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Lightness-Contrast"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Increase or decrease lightness and contrast"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood3030"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend3032"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite3034"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feComposite
+         id="feComposite3036"
+         in2="SourceGraphic"
+         operator="in" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview6"
+     showgrid="false"
+     width="0px"
+     height="0px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="8"
+     inkscape:cx="52.232962"
+     inkscape:cy="24.386461"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3215"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       position="9,39"
+       orientation="30,0"
+       id="guide4066" />
+    <sodipodi:guide
+       position="8.5,11"
+       orientation="0,30"
+       id="guide4068" />
+    <sodipodi:guide
+       position="39,9"
+       orientation="-30,0"
+       id="guide4070" />
+    <sodipodi:guide
+       position="39,39"
+       orientation="0,-30"
+       id="guide4072" />
+    <sodipodi:guide
+       position="5,39"
+       orientation="30,0"
+       id="guide4084" />
+    <sodipodi:guide
+       position="4.875,10.875"
+       orientation="0,4"
+       id="guide4086" />
+    <sodipodi:guide
+       position="9,9"
+       orientation="-30,0"
+       id="guide4088" />
+    <sodipodi:guide
+       position="9,39"
+       orientation="0,-4"
+       id="guide4090" />
+    <sodipodi:guide
+       position="39,9"
+       orientation="0,4"
+       id="guide4094" />
+    <sodipodi:guide
+       position="43,9"
+       orientation="-30,0"
+       id="guide4096" />
+    <sodipodi:guide
+       position="43,39"
+       orientation="0,-4"
+       id="guide4098" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="rect4078"
+     width="4"
+     height="30"
+     x="39"
+     y="-5" />
+  <rect
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="rect3262"
+     width="30"
+     height="30"
+     x="9"
+     y="-5" />
+  <rect
+     y="-5"
+     x="5"
+     height="30"
+     width="4"
+     id="rect4076"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     style="fill:#ffd5d5;fill-opacity:1;fill-rule:evenodd;stroke:none;filter:url(#filter3028)"
+     d="M 17.996094,9 C 15.639736,9.0001397 13.299731,9.9706197 11.634766,11.636719 9.9697984,13.302817 9,15.643996 9,18 9,19.37721 9.3429984,20.743472 9.9511719,21.978516 9.0984643,22.406955 8.3095597,22.961466 7.6347656,23.636719 5.9698004,25.302817 5,27.643996 5,30 5,32.356004 5.9698004,34.697183 7.6347656,36.363281 9.0641384,37.793627 10.992362,38.706353 13,38.9375 L 13,39 l 0.996094,0 20,0 L 35,39 35,38.93555 c 2.005181,-0.232535 3.932023,-1.143804 5.361328,-2.572266 C 42.028465,34.697175 43,32.356267 43,30 c 0,-2.356267 -0.971582,-4.697175 -2.638672,-6.363281 -1.44332,-1.44247 -3.393535,-2.360798 -5.419922,-2.582031 l -0.002,0 c -0.0024,-0.0019 -0.0034,-0.006 -0.0059,-0.0078 0.08531,-0.512611 0.140625,-1.030713 0.140625,-1.550781 0,-2.53925 -1.043429,-5.061738 -2.837891,-6.857422 C 30.441777,10.843002 27.918448,9.797039 25.378818,9.796888 24.413849,9.7968308 23.455689,9.9601384 22.535068,10.24806 21.161934,9.4497753 19.584935,8.9999058 17.996094,9 Z m 0.002,4 c 1.262177,-7.5e-5 2.467947,0.55307 3.378906,1.419922 0.0012,-7.88e-4 0.0027,-0.0012 0.0039,-0.002 2.33e-4,0.0019 -2.33e-4,0.0039 0,0.0059 0,0 0.169752,-0.0033 0.205079,-0.0059 0.964334,-0.678971 2.106944,-1.089774 3.292968,-1.089844 3.125448,-1.85e-4 5.972657,2.843423 5.972656,5.96875 -0.250523,1.166075 -0.220138,2.085861 -0.01758,3.154297 0.0027,-1.76e-4 0.0051,-0.0018 0.0078,-0.002 0.581107,1.432425 2.001092,2.537204 3.560547,2.568359 -7.56e-4,0.0019 -0.0012,0.0039 -0.002,0.0059 C 36.855462,25.250698 39,27.516773 39,30 38.082563,35.43295 31.773089,34.424493 26.099609,34.875 22.066839,34.772615 13.998047,35 13.998047,35 11.379871,34.999845 9,32.617783 9,30 c 0,-2.133112 1.588051,-4.085525 3.589844,-4.744141 1.253308,-0.08007 2.363281,-1.221735 2.363281,-2.484375 0,-0.712639 -0.359754,-1.382006 -0.892578,-1.851562 C 13.414855,20.077757 13,19.066054 13,18 c 0,-2.617783 2.379871,-4.999845 4.998047,-5 z"
+     id="path4074"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssscssscccccccsscccssscscccccsccccccccscscssc"
+     transform="matrix(1.0089972,0,0,0.91953333,1.2968037,-4.8941731)"
+     inkscape:export-xdpi="71.050003"
+     inkscape:export-ydpi="71.050003"
+     inkscape:export-filename="C:\Users\Jose\Dropbox\Proyectos\Drogas Calidad\Codigo\hadro-nube2014\public\assets\img\hadro-nube.png" />
+  <ellipse
+     id="path4114"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     cx="36.998615"
+     cy="-3"
+     rx="2.0013857"
+     ry="2.0000615" />
+  <ellipse
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="path4108"
+     cx="36.998615"
+     cy="23"
+     rx="2.0013857"
+     ry="2.0000615" />
+  <ellipse
+     id="path4110"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     cx="10.998614"
+     cy="23"
+     rx="2.0013857"
+     ry="2.0000615" />
+  <ellipse
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="path4168"
+     cx="23.998613"
+     cy="23"
+     rx="2.0013857"
+     ry="2.0000615" />
+  <ellipse
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="path4172"
+     cx="6.9986148"
+     cy="16"
+     rx="2.0013857"
+     ry="2.0000615" />
+  <ellipse
+     id="path4176"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     cx="40.998611"
+     cy="16"
+     rx="2.0013857"
+     ry="2.0000615" />
+  <ellipse
+     id="path4182"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     cx="11.498271"
+     cy="16"
+     rx="2.5017321"
+     ry="2.500077" />
+  <ellipse
+     id="path4186"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     cx="36.498264"
+     cy="16"
+     rx="2.5017321"
+     ry="2.500077" />
+  <ellipse
+     id="path4188"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     cx="17.998615"
+     cy="-3.000001"
+     rx="2.0013857"
+     ry="2.0000615" />
+  <ellipse
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="path4190"
+     cx="27.8498"
+     cy="6.7034206"
+     rx="2.0013857"
+     ry="2.0000615" />
+  <ellipse
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="path4303"
+     cx="30.187111"
+     cy="-0.54886627"
+     rx="2.0013857"
+     ry="2.0000615" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="48.875"
+     y="28.018377"
+     id="text3380"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3382"
+       x="48.875"
+       y="28.018377"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:31.25px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';fill:#f9f9f9;fill-opacity:1;">Hadro</tspan></text>
+</svg>
